@@ -1,6 +1,6 @@
 [
   {
-    "name": "",
+    "name": "DarthPierre",
     "comment": "",
     "allyCode": "573353557",
     "userIcon": "",
@@ -9,7 +9,7 @@
     "skip": false
   },
   {
-    "name": "",
+    "name": "Mol Eliza",
     "comment": "",
     "allyCode": "364273446",
     "userIcon": "",
@@ -18,7 +18,7 @@
     "skip": false
   },
   {
-    "name": "",
+    "name": "Diandra",
     "comment": "",
     "allyCode": "242176837",
     "userIcon": "",
@@ -27,7 +27,7 @@
     "skip": false
   },
   {
-    "name": "",
+    "name": "Kan Se Col",
     "comment": "",
     "allyCode": "189277415",
     "userIcon": "",
@@ -36,7 +36,7 @@
     "skip": false
   },
   {
-    "name": "",
+    "name": "Welty Crayon",
     "comment": "",
     "allyCode": "115246277",
     "userIcon": "",
@@ -45,7 +45,7 @@
     "skip": false
   },
   {
-    "name": "",
+    "name": "Obi Nando",
     "comment": "",
     "allyCode": "596932787",
     "userIcon": "",
@@ -54,7 +54,7 @@
     "skip": false
   },
   {
-    "name": "",
+    "name": "Jasun",
     "comment": "",
     "allyCode": "712175422",
     "userIcon": "",
@@ -63,7 +63,7 @@
     "skip": false
   },
   {
-    "name": "",
+    "name": "Xcie",
     "comment": "",
     "allyCode": "112181722",
     "userIcon": "",
@@ -72,7 +72,7 @@
     "skip": false
   },
   {
-    "name": "",
+    "name": "R5P R2D2",
     "comment": "",
     "allyCode": "285122897",
     "userIcon": "",
@@ -81,7 +81,7 @@
     "skip": false
   },
   {
-    "name": "",
+    "name": "Cayne",
     "comment": "",
     "allyCode": "478927119",
     "userIcon": "",
@@ -90,7 +90,7 @@
     "skip": false
   },
   {
-    "name": "",
+    "name": "TiRiaL",
     "comment": "",
     "allyCode": "649273252",
     "userIcon": "",
@@ -99,7 +99,7 @@
     "skip": false
   },
   {
-    "name": "",
+    "name": "juwa",
     "comment": "",
     "allyCode": "256252687",
     "userIcon": "",
@@ -108,7 +108,7 @@
     "skip": false
   },
   {
-    "name": "",
+    "name": "Fergiewalker",
     "comment": "",
     "allyCode": "879667535",
     "userIcon": "",
@@ -117,7 +117,7 @@
     "skip": false
   },
   {
-    "name": "",
+    "name": "Matazu",
     "comment": "",
     "allyCode": "434337318",
     "userIcon": "",
@@ -126,7 +126,7 @@
     "skip": false
   },
   {
-    "name": "",
+    "name": "Leejen",
     "comment": "",
     "allyCode": "879125412",
     "userIcon": "",
@@ -135,7 +135,7 @@
     "skip": false
   },
   {
-    "name": "",
+    "name": "Zed",
     "comment": "",
     "allyCode": "611231427",
     "userIcon": "",
@@ -144,7 +144,7 @@
     "skip": false
   },
   {
-    "name": "",
+    "name": "SB BθSIDIθЦS",
     "comment": "",
     "allyCode": "666626962",
     "userIcon": "",
@@ -153,7 +153,7 @@
     "skip": false
   },
   {
-    "name": "",
+    "name": "Spellclipse",
     "comment": "",
     "allyCode": "527257825",
     "userIcon": "",
@@ -162,7 +162,7 @@
     "skip": false
   },
   {
-    "name": "",
+    "name": "Yeye",
     "comment": "",
     "allyCode": "941496476",
     "userIcon": "",
@@ -171,7 +171,7 @@
     "skip": false
   },
   {
-    "name": "",
+    "name": "Schmosy der Mächtige",
     "comment": "",
     "allyCode": "458761332",
     "userIcon": "",
@@ -180,7 +180,7 @@
     "skip": false
   },
   {
-    "name": "",
+    "name": "Philou",
     "comment": "",
     "allyCode": "246844263",
     "userIcon": "",
@@ -189,7 +189,7 @@
     "skip": false
   },
   {
-    "name": "",
+    "name": "Noobiwan",
     "comment": "",
     "allyCode": "592359163",
     "userIcon": "",
@@ -198,7 +198,7 @@
     "skip": false
   },
   {
-    "name": "",
+    "name": "Adhesive",
     "comment": "",
     "allyCode": "565655131",
     "userIcon": "",
@@ -207,10 +207,19 @@
     "skip": false
   },
   {
-    "name": "",
+    "name": "Claw Twilightgold",
     "comment": "",
     "allyCode": "558298149",
     "userIcon": "",
+    "tagIdOnDrop": "",
+    "tagIdOnClimb": "",
+    "skip": false
+  },
+  {
+    "name": "Pbrendi",
+    "comment": "",
+    "allyCode": "146933693",
+    "userIcon": ":skull_crossbones:",
     "tagIdOnDrop": "",
     "tagIdOnClimb": "",
     "skip": false
