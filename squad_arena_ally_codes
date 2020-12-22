@@ -223,5 +223,23 @@
     "tagIdOnDrop": "",
     "tagIdOnClimb": "",
     "skip": false
+  },
+  {
+    "name": "Ebonheart",
+    "comment": "",
+    "allyCode": "248266291",
+    "userIcon": ":skull_crossbones:",
+    "tagIdOnDrop": "",
+    "tagIdOnClimb": "",
+    "skip": false
+  },
+  {
+    "name": "Ewokin Gölli",
+    "comment": "",
+    "allyCode": "216279718",
+    "userIcon": ":skull_crossbones:",
+    "tagIdOnDrop": "",
+    "tagIdOnClimb": "",
+    "skip": false
   }
 ]
