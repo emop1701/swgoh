@@ -234,6 +234,24 @@
     "skip": false
   },
   {
+    "name": "Raiken",
+    "comment": "",
+    "allyCode": "152471245",
+    "userIcon": ":skull_crossbones:",
+    "tagIdOnDrop": "",
+    "tagIdOnClimb": "",
+    "skip": false
+  },
+  {
+    "name": "KM",
+    "comment": "",
+    "allyCode": "132347594",
+    "userIcon": ":skull_crossbones:",
+    "tagIdOnDrop": "",
+    "tagIdOnClimb": "",
+    "skip": false
+  },
+  {
     "name": "Ewokin Gölli",
     "comment": "",
     "allyCode": "216279718",
