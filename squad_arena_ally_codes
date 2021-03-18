@@ -313,5 +313,14 @@
     "tagIdOnDrop": "",
     "tagIdOnClimb": "",
     "skip": false
+  },
+  {
+    "name": "Max196753245",
+    "comment": "",
+    "allyCode": "196753245",
+    "userIcon": ":skull_crossbones:",
+    "tagIdOnDrop": "",
+    "tagIdOnClimb": "",
+    "skip": false
   }
 ]
