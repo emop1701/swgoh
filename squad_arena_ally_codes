@@ -216,6 +216,15 @@
     "skip": false
   },
   {
+    "name": "Greyhound",
+    "comment": "",
+    "allyCode": "754793786",
+    "userIcon": "",
+    "tagIdOnDrop": "",
+    "tagIdOnClimb": "",
+    "skip": false
+  },
+  {
     "name": "Pbrendi",
     "comment": "",
     "allyCode": "146933693",
