@@ -358,5 +358,14 @@
     "tagIdOnDrop": "",
     "tagIdOnClimb": "",
     "skip": false
+  },
+  {
+    "name": "Solaria026",
+    "comment": "",
+    "allyCode": "492652656",
+    "userIcon": ":skull_crossbones:",
+    "tagIdOnDrop": "",
+    "tagIdOnClimb": "",
+    "skip": false
   }
 ]
