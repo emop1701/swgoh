@@ -367,5 +367,14 @@
     "tagIdOnDrop": "",
     "tagIdOnClimb": "320804972818202624",
     "skip": false
+  },
+  {
+    "name": "JediJohn",
+    "comment": "",
+    "allyCode": "919414694",
+    "userIcon": ":skull_crossbones:",
+    "tagIdOnDrop": "",
+    "tagIdOnClimb": "",
+    "skip": false
   }
 ]
