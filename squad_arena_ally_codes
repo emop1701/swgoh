@@ -376,5 +376,14 @@
     "tagIdOnDrop": "",
     "tagIdOnClimb": "",
     "skip": false
+  },
+  {
+    "name": "Thundryn",
+    "comment": "",
+    "allyCode": "665212452",
+    "userIcon": ":skull_crossbones:",
+    "tagIdOnDrop": "",
+    "tagIdOnClimb": "",
+    "skip": false
   }
 ]
