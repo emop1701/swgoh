@@ -27,6 +27,15 @@
     "skip": false
   },
   {
+    "name": "Greyhound",
+    "comment": "",
+    "allyCode": "754793786",
+    "userIcon": "",
+    "tagIdOnDrop": "",
+    "tagIdOnClimb": "",
+    "skip": false
+  },
+  {
     "name": "Kan Se Col",
     "comment": "",
     "allyCode": "189277415",
@@ -39,6 +48,15 @@
     "name": "Welty Crayon",
     "comment": "",
     "allyCode": "115246277",
+    "userIcon": "",
+    "tagIdOnDrop": "",
+    "tagIdOnClimb": "",
+    "skip": false
+  },
+  {
+    "name": "Tibbzy Matazu",
+    "comment": "",
+    "allyCode": "434337318",
     "userIcon": "",
     "tagIdOnDrop": "",
     "tagIdOnClimb": "",
@@ -111,15 +129,6 @@
     "name": "Fergiewalker",
     "comment": "",
     "allyCode": "879667535",
-    "userIcon": "",
-    "tagIdOnDrop": "",
-    "tagIdOnClimb": "",
-    "skip": false
-  },
-  {
-    "name": "Matazu",
-    "comment": "",
-    "allyCode": "434337318",
     "userIcon": "",
     "tagIdOnDrop": "",
     "tagIdOnClimb": "",
@@ -216,21 +225,12 @@
     "skip": false
   },
   {
-    "name": "Greyhound",
-    "comment": "",
-    "allyCode": "754793786",
-    "userIcon": "",
-    "tagIdOnDrop": "",
-    "tagIdOnClimb": "",
-    "skip": false
-  },
-  {
     "name": "Pbrendi",
     "comment": "",
     "allyCode": "146933693",
     "userIcon": ":skull_crossbones:",
     "tagIdOnDrop": "",
-    "tagIdOnClimb": "320804972818202624",
+    "tagIdOnClimb": "",
     "skip": false
   },
   {
@@ -365,7 +365,7 @@
     "allyCode": "492652656",
     "userIcon": ":skull_crossbones:",
     "tagIdOnDrop": "",
-    "tagIdOnClimb": "320804972818202624",
+    "tagIdOnClimb": "",
     "skip": false
   },
   {
