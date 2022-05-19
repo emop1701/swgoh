@@ -403,5 +403,14 @@
     "tagIdOnDrop": "",
     "tagIdOnClimb": "",
     "skip": false
+  },
+  {
+    "name": "Biggs Fartlighter",
+    "comment": "",
+    "allyCode": "467491677",
+    "userIcon": ":skull_crossbones:",
+    "tagIdOnDrop": "",
+    "tagIdOnClimb": "",
+    "skip": false
   }
 ]
